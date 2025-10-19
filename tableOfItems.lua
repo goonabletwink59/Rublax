@@ -16,7 +16,7 @@ getgenv().tableOfItems = {
 	["Dual Abyssal Set"] = 1200, ["Lunar Parasol"] = 900,
 	["Dual Kitsune Blade"] = 870, ["Abyssal Blade"] = 780,
 	["Nightfall Violin"] = 780, ["All Star Striker"] = 500,
-	["Sci Fi Blade"] = 600, --["Dual Devil Katana"] = 620,
+	["Sci Fi Blade"] = 250, --["Dual Devil Katana"] = 620,
 	["Dual Serene Scythe"] = 620, ["Mummy's Slasher"] = 650,
 	["Spring Slicer"] = 590, ["Flowing Fists"] = 480,
 	["Dual Princess Katana"] = 400, ["Wind Thorn"] = 400,
