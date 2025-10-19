@@ -35,6 +35,7 @@ getgenv().tableOfItems = {
     ["Polar Bear Emote"] = 3000, ["Eternal Clockwork"] = 2000, ["Kitty Launcher Emote"] = 2500,
     ["Seraphim Emote"] = 2200, ["Coffin Emote"] = 2000, ["Sitting"] = 1800, ["Chroma Scythe Emote"] = 1800,
     ["Milk & Cookies"] = 1800, ["Dual Yin Yang Greatsword Emote"] = 900,
+	["Eternum Galepiercer"] = 7000,
 
 	-- dreaming is free
 	["Frog"] = 20000, ["Frost Dragon"] = 20000, ["Fire Dragon"] = 20000,
